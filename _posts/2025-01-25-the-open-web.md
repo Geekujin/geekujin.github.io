@@ -4,6 +4,9 @@ title: "Introducing the Open Web"
 date: 2025-01-21
 categories: [social media]
 tags: fediverse
+toc:
+  enable: true
+  heading_levels: [1, 2, 3]
 ---
 The social web is long overdue for democratisation, taking out of the hands of those who thrive on money, misery. and manipulation. In this post I'll talk about using free (as in speech *and* beer) open platforms as an alternative to and continuation of the Social Web.
 
