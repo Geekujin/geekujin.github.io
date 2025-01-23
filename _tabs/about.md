@@ -16,7 +16,7 @@ Basically, this will act as a bit of a brain dump for thoughts, code snippets an
 
 ## What am I up to?
 
-My current albums, TV shows, films, books etc. that I've been consuming, or anything specifically I'm working on can be found on my [now page](https://geekujin.net/now), once I've got round to building it, inspired by [nownownow]{https://nownownow.com/about).
+My current albums, TV shows, films, books etc. that I've been consuming, or anything specifically I'm working on can be found on my [now page](https://geekujin.net/now), once I've got round to building it, inspired by [nownownow](https://nownownow.com/about).
 
 Or maybe I'll abandon that idea and stick it in a post or something. Who knows?
 
